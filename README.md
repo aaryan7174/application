@@ -1,1 +1,2 @@
-# application adding devA story 
+  Updated application
+application adding devA story 
